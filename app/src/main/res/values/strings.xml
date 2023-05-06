@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">Beyik Yol-2.0</string>
+    <string name="description" translatable="false">desc</string>
+    <string name="one_title">Türkmenistanda ilkinji gezek!</string>
+    <string name="desc_title">Kartany ulanmak arkaly awtoulagyň ýerleşýän ýerini anyklaýan, geçmeli wagtyny hasaplamak bilen ýoluny gurnaýan, awtoulag bilen bagly çykdajylary bellige alýan we awto sürüjiler üçin iň peýdaly funksiýalary hödürleýän ilkinji “Beýik Ýol” ykjam programma üpjünçiligi Siziň hyzmatyňyzda!</string>
+    <string name="second_title">Ulanmagyň ýeňillikleri</string>
+    <string name="second_desc">Bu ykjam programma üpjünçiligiň aýratynlyklary, onuň sada dizaýny bilen bagly bolup özüniň işjeňligi bilen tapawutlanýar we ýönekeý görnüşi bilen awto sürüjilere ulanmakda aňsat ýoluny hödürleýär. Iň uly aýratynlyklaryň biri hem, Internet ulgamyna birikmesiz, awtoulag bilen bagly işleri bu ykjam programma üpjünçiliginde amala aşyryp bolýar.</string>
+    <string name="third_title">Ýoluňyz ak bolsun!</string>
+    <string name="third_desc">“Beýik Ýol” – Siziň ynamdar ýolbelediňiz!</string>
+    <string name="not_user_found">Hasap tapylmady!</string>
+    <string name="want_you_create_account">Bu telefon belgä degişli hasap tapylmady. Täze hasap döretmek isleýärsiňizmi?</string>
+    <string name="yes">Hawa</string>
+    <string name="no">Ýok</string>
+    <string name="accept_terms">Ulanyş kadalaryny okadym we kabul edýärin</string>
+    <string name="enter_code">Görkezilen belgiden aşakdaky telefon belgä boş sms ugradyň we indiki düwmä basyň</string>
+    <string name="send_sms">Sms ugrat </string>
+    <string name="resend_code_in" translatable="false">Resend code in: </string>
+    <string name="resend_code_now" translatable="false">Resend code now</string>
+    <string name="tell_about_yourself" translatable="false">Tell us about yourself</string>
+    <string name="want_add_image" translatable="false">Want to add your photo to profile?</string>
+    <string name="add">Goşmak</string>
+    <string name="your_name">Siziň doly adyňyzy</string>
+    <string name="finish">Tamamla</string>
+    <string name="profile_settings">Hasabym &amp; Sazlamalar</string>
+    <string name="speedometer">Tizlik ölçeýji</string>
+    <string name="speedometer_desc">Şu ýere bas</string>
+    <string name="my_cars">Meniň ulaglarym we çykdaýjylarym</string>
+    <string name="service">Serwis</string>
+    <string name="mileage">Geçen ýoly</string>
+    <string name="fuel">Ýangyç</string>
+    <string name="cost">Çykdaýjy</string>
+    <string name="search">Gözleg</string>
+    <string name="default_notification_channel_id" translatable="false">com.android.beyikyol2</string>
+    <string name="to_sign_in">Içeri gir</string>
+    <string name="my_cars_title">Meniň ulaglarym</string>
+    <string name="new_car">Täze ulag</string>
+    <string name="car_settings">Ulag sazlamalar</string>
+    <string name="edit_car">Üýtgetmek</string>
+    <string name="success">Üstünlikli tamamlandy</string>
+    <string name="error">Ýalňyşlyk ýüze çykdy</string>
+    <string name="next">Indiki</string>
+    <string name="blocked">Siz bloklanan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="back">Yza dolan</string>
+    <string name="my_costs">Çykdaýjylarym</string>
+    <string name="language">Dil</string>
+    <string name="accident">Ýol heläkçiligini barlamak</string>
+    <string name="notifications">Hatlar</string>
+    <string name="created_at">Döredilen wagty:</string>
+    <string name="share_with_friend">Dostlaryň bilen paýlaş</string>
+    <string name="logout">Ulgamdan çykmak</string>
+    <string name="select_language">Dil saýla</string>
+    <string name="dark">Garaňky tema</string>
+    <string name="russian" translatable="false">Русский</string>
+    <string name="turkmen" translatable="false">Türkmen dili</string>
+    <string name="change_photo">Suraty çalyş</string>
+    <string name="fullname">Doly adyňyz</string>
+    <string name="dob">Doglan wagty</string>
+    <string name="save_changes">Ýatda saklat</string>
+    <string name="go_to_page">Sahypa git</string>
+    <string name="evacuators">Ýük awtoulaglary</string>
+    <string name="about">Biz barada</string>
+    <string name="privacy">Ulanyş kadalary</string>
+    <string name="km_h">km/s</string>
+    <string name="start">Başlat</string>
+    <string name="stop">Duruz</string>
+    <string name="year">Ýyl</string>
+    <string name="model">Model:</string>
+    <string name="type">Görnüşi:</string>
+    <string name="brand">Marka:</string>
+    <string name="transmission">Korobkany saýla:</string>
+    <string name="energy_type">Motoryň görnüşi:</string>
+    <string name="power">Motoryň Göwrümi:</string>
+    <string name="km_miles">Geçen ýoly (KM)</string>
+    <string name="vin">Vin kod (17 simwol):</string>
+    <string name="car_phone">Eýesiniň telefony</string>
+    <string name="delete_car">Ulagy pozmak</string>
+    <string name="car_name">Ulag ady</string>
+    <string name="lastMile">Soňky geçen ýoly</string>
+    <string name="select_images">Ulagyň suratyny saýlaň</string>
+    <string name="select_brand">Markany saýlaň</string>
+    <string name="select_model">Awtoulag modelini saýlaň</string>
+    <string name="select_option">Ulagyň görnüşini saýlaň</string>
+    <string name="select_transmition">Korobgany saýlaň</string>
+    <string name="enter_car_name">Ulagyň adyny ýazmagyňyzy haýyş edýäris</string>
+    <string name="enter_vin_code">Awtoulagyň win kodunyň uzynlygy 17 simwoldan ybarat bolmaly</string>
+    <string name="enter_year">Awtoulag ýylyna girmegiňizi haýyş edýäris</string>
+    <string name="enter_last_mile">Iň soňky kilometre girmegiňizi haýyş edýäris</string>
+    <string name="enter_power">Ulagyň güýjüni giriziň</string>
+    <string name="select_engine_type">Ulagyň hereketlendirijisiniň görnüşini saýlaň</string>
+    <string name="edit">Üýtgetmek</string>
+    <string name="add_cost">Çykdaýjy goş</string>
+    <string name="change">Üýtgetmek</string>
+    <string name="repair">Remont</string>
+    <string name="select_cost_type">Çykdaýjynyň görnüşini saýla</string>
+    <string name="about_repairs">Remont barada doly maglumat</string>
+    <string name="enter_km">Geçen ýoluny giriz</string>
+    <string name="enter_price">Bahasyny giriz</string>
+    <string name="enter_desc">Goşmaça maglumat giriz</string>
+    <string name="volume">Göwrümi (litrde)</string>
+    <string name="enter_volume">Göwrümini giriz</string>
+    <string name="next_change_km">Indiki üýtgetmeli KM-i giriz</string>
+    <string name="reminder">Ýatlatma</string>
+    <string name="select_change_types">Üýtgetme görnüşlerini saýla</string>
+    <string name="delete">Poz</string>
+    <string name="enter_next_change_km">Indiki üýtgetmeli KM-i giriz</string>
+    <string name="edit_cost">Üýtgetmek</string>
+    <string name="attention">Üns beriň</string>
+    <string name="do_you_want_delete">Çyndanam pozmak isleýärsiňizmi?</string>
+    <string name="filter">Filtr</string>
+    <string name="all">Hemmesi</string>
+    <string name="no_data">Maglumat ýok</string>
+    <string name="see_all_cost">Ähli çykdaýjylar</string>
+    <string name="please_login">Has köp mümkinçiliklerden peýdalanmak üçin agza boluň</string>
+    <string name="no_cars">Ulag tapylmady</string>
+    <string name="add_car">Ulag goşmak</string>
+    <string name="no_costs">Çykdaýjylar tapylmady</string>
+    <string name="refresh">Täzele</string>
+    <string name="want_logout">Çyndanam ulagmdan çykmak isleýärsiňizmi?</string>
+    <string name="fuel_80">80 ýangyjyň bahasy</string>
+    <string name="fuel_92">92 ýangyjyň bahasy</string>
+    <string name="fuel_95">95 ýangyjyň bahasy</string>
+    <string name="profile_tour_title">Hasabym we sazlamalar</string>
+    <string name="reviews">synlar</string>
+    <string name="show_on_map">Kartada görkez</string>
+    <string name="phone_error">Telefon belgi 8 belgiden uly bolmaly däl</string>
+    <string name="phone_number">Telefon belgi</string>
+    <string name="hasaba_dur">Hasaba dur!</string>
+    <string name="login_desc">Has köp mümkinçiliklerden peýdalanmak üçin agza boluň!</string>
+    <string name="skip">Geçmek</string>
+    <string name="distance">Aralyk</string>
+    <string name="time">Wagt</string>
+    <string name="search_place">Gözleýän ýeriňiziň ady...</string>
+</resources>

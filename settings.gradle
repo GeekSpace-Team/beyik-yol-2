@@ -1,0 +1,27 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+        jcenter()
+        maven { url "https://jitpack.io" }
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter()
+        maven { url "https://jitpack.io" }
+//        maven {
+//            credentials {
+//                username = "Shageldi"
+//                password = "MOhLpVceullJeFvpTV9TZnj07xr4shyJ"
+//            }
+//            url = uri("https://repositories.tomtom.com/artifactory/maven")
+//        }
+    }
+}
+rootProject.name = "BeyikYol2"
+include ':app'

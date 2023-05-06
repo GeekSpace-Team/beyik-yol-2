@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "233175495757",
+    "project_id": "beyik-yol-2",
+    "storage_bucket": "beyik-yol-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233175495757:android:66e98ade83d038802d9804",
+        "android_client_info": {
+          "package_name": "com.android.beyikyol2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233175495757-m4pikf3dmgi2oocv2eolqnuvt8r5mjdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLoNXEqWfBQ3HtMZsS8O4491R0QrAU7bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233175495757-m4pikf3dmgi2oocv2eolqnuvt8r5mjdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+package com.android.beyikyol2.feature_other.data.remote.dto.map.direction
+
+data class EndLocation(
+    val lat: Double,
+    val lng: Double
+)
